@@ -12,6 +12,6 @@ When it comes to data visualization, choosing an appropriate color palette is cr
 5. **Display Palette**: The software draws squares for each color, organizing them into rows based on hue.
 
 ## How to Download
-Download the latest version from the [Releases](https://github.com/your-username/your-repo/releases) section on GitHub.
+Download the latest version from the [Releases](https://github.com/MaximeMET/BD-color-extract/releases) section on GitHub.
 
 This tool helps you generate an aesthetically pleasing color palette from images, which can be useful for various data visualization tasks.

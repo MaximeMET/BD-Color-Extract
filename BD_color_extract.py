@@ -30,7 +30,7 @@ def center_window(window):
 # Initialize main window
 root = tk.Tk()
 root.title(f"{name} {version}")
-root.geometry("790x390")
+root.geometry("790x488")
 # Ensure the window is centered
 center_window(root)
     
